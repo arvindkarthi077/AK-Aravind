@@ -1,5 +1,5 @@
 # AK-Aravind
 
-My first mini project
+My first mini project:
 
 MEASURING AND CONTROLLING THE LEVEL OF WATER USING ULTRASONIC SENSOR
